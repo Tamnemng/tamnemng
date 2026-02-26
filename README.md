@@ -48,7 +48,7 @@ Based in **Ho Chi Minh City, Vietnam**, I am a senior Information Technology stu
 
 ## 💼 Experience
 
-**Intern Web Developer @ Smartlog** _(Aug 2024 – Apr 2025)_
+**Intern Web Developer @ Smartlog** _(Aug 2024 – Now)_
 * Built responsive User Interfaces (UI) using **Angular** based on UX/UI designs.
 * Integrated **RESTful APIs** from various e-commerce platforms into the Order Management System (OMS).
 * Developed APIs to facilitate interaction between users and external e-commerce platforms.
