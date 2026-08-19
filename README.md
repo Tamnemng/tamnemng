@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Web Developer $\cdot$ .NET Core $\cdot$ Angular
 
-Based in **Ho Chi Minh City, Vietnam**, I am a senior Information Technology student at **HCM University of Education (HCMUE)** (Expected 2026). I am passionate about building scalable web applications and exploring AI integration.
+Based in **Ho Chi Minh City, Vietnam**, I am a web developer.
 
 ---
 
